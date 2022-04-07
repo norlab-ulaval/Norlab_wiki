@@ -1,0 +1,27 @@
+% !TEX program = pdflatex
+% !TEX options = --shell-escape -interaction=batchmode -halt-on-error -file-line-error "%DOC%"
+
+\documentclass[preview, tikz, border=7pt, convert={density=600, png}]{standalone}
+
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows.meta,backgrounds}
+\tikzset{
+    white background/.style={
+        show background rectangle,
+        tight background,
+        background rectangle/.style={
+            fill=white
+        }
+    },
+}
+
+\begin{document}
+\begin{tikzpicture}[white background]
+    \node [rectangle] (a_block) {This is a block};
+\end{tikzpicture}
+
+\begin{tikzpicture}[white background]
+    \node [rectangle] (another_block) {This is another block in a new page};
+\end{tikzpicture}
+
+\end{document}
