@@ -1,0 +1,3 @@
+[submodule "project_snow_docs"]
+	path = project_snow_docs
+	url = git@github.com:norlab-ulaval/project_snow_docs.git
