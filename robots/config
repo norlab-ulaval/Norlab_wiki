@@ -1,0 +1,24 @@
+# NORLAB robots
+Host marmotte-dell
+	Hostname 192.168.55.77
+	User robot
+	
+Host marmotte-xavier
+	Hostname 192.168.55.159
+	User robot
+	
+Host husky
+	Hostname 192.168.0.2
+	User husky
+	
+Host backpack
+	Hostname 10.42.0.1
+	User robot
+
+Host warthog-high-level
+	Hostname 192.168.0.3
+	User robot
+
+Host warthog-low-level
+	Hostname 192.168.0.2
+	User administrator
