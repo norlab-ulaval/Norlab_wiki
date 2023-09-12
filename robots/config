@@ -29,3 +29,15 @@ Host warthog-high-level
 Host warthog-low-level
     Hostname 192.168.0.2
     User administrator
+
+Host sphere
+    Hostname 192.168.13.1
+    User ubuntu
+
+Host sphere-wifi
+    Hostname 192.169.13.1
+    User ubuntu
+
+Host cube
+    Hostname 10.42.0.1
+    User ubuntu
