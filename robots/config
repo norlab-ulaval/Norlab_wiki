@@ -7,11 +7,11 @@ Host github.com
 # NORLAB robots
 
 Host marmotte-dell
-    Hostname 192.168.55.77
+    Hostname 192.168.5.100
     User robot
 
 Host marmotte-xavier
-    Hostname 192.168.55.159
+    Hostname 192.168.5.101
     User robot
 
 Host husky
