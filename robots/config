@@ -30,6 +30,10 @@ Host warthog-low-level
     Hostname 192.168.0.2
     User administrator
 
+Host warthog-jetson-orin
+    Hostname 192.168.0.5
+    User robot
+
 Host sphere
     Hostname 192.168.13.1
     User ubuntu
