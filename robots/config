@@ -14,9 +14,9 @@ Host marmotte-xavier
     Hostname 192.168.5.101
     User robot
 
-Host husky
-    Hostname 192.168.0.2
-    User husky
+Host husky-dell
+    Hostname 192.168.7.2
+    User robot
 
 Host backpack
     Hostname 10.42.0.1
