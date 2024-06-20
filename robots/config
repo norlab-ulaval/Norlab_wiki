@@ -19,7 +19,7 @@ Host husky-dell
     User robot
 
 Host backpack
-    Hostname 10.42.0.1
+    Hostname 192.168.8.100
     User robot
 
 Host warthog-high-level
