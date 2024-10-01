@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16">
   <diagram name="Page-1" id="lXaNqZM-0Tj3juV3bvDM">
-    <mxGraphModel dx="1674" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1314" dy="1881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -207,6 +207,15 @@
         <mxCell id="vBaHfqE5TDyvZSrMxQp3-49" value="LAN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="640" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="c-H09LIcqTzEDLmXKNv2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#CC6600;" edge="1" parent="1" source="vBaHfqE5TDyvZSrMxQp3-50" target="c-H09LIcqTzEDLmXKNv2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-H09LIcqTzEDLmXKNv2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#CC6600;" edge="1" parent="1" source="vBaHfqE5TDyvZSrMxQp3-50" target="c-H09LIcqTzEDLmXKNv2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c-H09LIcqTzEDLmXKNv2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#CC6600;" edge="1" parent="1" source="vBaHfqE5TDyvZSrMxQp3-50" target="c-H09LIcqTzEDLmXKNv2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vBaHfqE5TDyvZSrMxQp3-50" value="WAN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="470" width="120" height="60" as="geometry" />
         </mxCell>
@@ -236,6 +245,15 @@
         </mxCell>
         <mxCell id="CwpeyEkSjK2lWXP4DWoM-1" value="&lt;div&gt;Atlans INS&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.0.4&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c-H09LIcqTzEDLmXKNv2-1" value="&lt;div&gt;Emlid Reach (back)&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.0.200&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c-H09LIcqTzEDLmXKNv2-2" value="&lt;div&gt;Emlid Reach (middle)&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.0.201&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c-H09LIcqTzEDLmXKNv2-3" value="&lt;div&gt;Emlid Reach (front)&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.0.202&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
