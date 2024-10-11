@@ -22,16 +22,16 @@ Host backpack
     Hostname 192.168.8.100
     User robot
 
-Host warthog-high-level
-    Hostname 192.168.0.3
+Host warthog-low-level
+    Hostname 192.168.3.2
     User robot
 
-Host warthog-low-level
-    Hostname 192.168.0.2
-    User administrator
+Host warthog-high-level
+    Hostname 192.168.3.3
+    User robot
 
 Host warthog-jetson-orin
-    Hostname 192.168.0.5
+    Hostname 192.168.3.5
     User robot
 
 Host sphere
