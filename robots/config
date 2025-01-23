@@ -14,8 +14,12 @@ Host marmotte-xavier
     Hostname 192.168.5.3
     User robot
 
-Host castor
+Host castor-dell
     Hostname 192.168.4.2
+    User robot
+
+Host castor-jetson
+    Hostname 192.168.4.3
     User robot
 
 Host husky-dell
