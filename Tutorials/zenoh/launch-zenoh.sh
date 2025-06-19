@@ -5,7 +5,7 @@ screen_name="zenoh_router"
 screen -S $screen_name -X stuff $'\003'
 
 source /opt/ros/humble/setup.bash
-source /home/robot/ros2_ws/install/local_setup.bash
+source ~/ros2_ws/install/local_setup.bash
 
 sleep 2
 
