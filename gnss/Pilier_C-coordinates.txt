@@ -1,0 +1,3 @@
+Long: -71.27459561 E
+Lat: 46.77944318 N
+Ellipsoidal height: 61.803 m
