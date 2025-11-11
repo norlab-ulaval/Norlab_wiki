@@ -53,3 +53,7 @@ Host sphere-wifi
 Host cube
     Hostname 10.42.0.1
     User ubuntu
+
+Host falcon-jetson
+   HostName 192.168.6.100
+   User robot
