@@ -57,3 +57,11 @@ Host cube
 Host falcon-jetson
    HostName 192.168.6.100
    User robot
+
+Host anymal-lpc
+   HostName 192.168.0.68
+   User integration
+
+Host anymal-npc
+   HostName 192.168.0.69
+   User integration
