@@ -65,3 +65,7 @@ Host anymal-lpc
 Host anymal-npc
    HostName 192.168.0.69
    User integration
+
+Host mtt-high-level
+   HostName 192.168.2.2
+   User robot
