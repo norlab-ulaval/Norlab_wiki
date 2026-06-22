@@ -69,3 +69,11 @@ Host anymal-npc
 Host mtt-high-level
    HostName 192.168.2.2
    User robot
+
+Host rts-client
+    Hostname 10.42.0.1
+    User robot
+
+Host nanook
+    Hostname 192.168.9.100
+    User nanook
