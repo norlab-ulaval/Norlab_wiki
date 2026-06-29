@@ -79,5 +79,5 @@ Host nanook
     User nanook
 
 Host yoda
-    Hostname 192.168.10.100
+    Hostname 192.168.100.100
     User robot
