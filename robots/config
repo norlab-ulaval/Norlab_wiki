@@ -77,3 +77,7 @@ Host rts-client
 Host nanook
     Hostname 192.168.9.100
     User nanook
+
+Host sensor-head
+    Hostname 192.168.10.100
+    User robot
