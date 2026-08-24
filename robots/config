@@ -81,3 +81,7 @@ Host nanook
 Host yoda
     Hostname 192.168.100.100
     User robot
+
+Host anymal-thor
+    Hostname 192.168.0.70
+    User robot
