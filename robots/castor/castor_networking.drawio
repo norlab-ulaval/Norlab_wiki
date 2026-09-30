@@ -22,7 +22,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vBaHfqE5TDyvZSrMxQp3-1" value="&lt;div&gt;Dell&lt;/div&gt;&lt;div&gt;192.168.4.2&lt;/div&gt;&lt;div&gt;ROS 2 Humble&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="vBaHfqE5TDyvZSrMxQp3-1" value="&lt;div&gt;Lenovo&lt;/div&gt;&lt;div&gt;192.168.4.2&lt;/div&gt;&lt;div&gt;ROS 2 Humble&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="220" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vBaHfqE5TDyvZSrMxQp3-3" value="&lt;div&gt;Hesai&lt;/div&gt;&lt;div&gt;192.168.1.201&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
