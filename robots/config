@@ -14,7 +14,7 @@ Host marmotte-xavier
     Hostname 192.168.5.3
     User robot
 
-Host castor-dell
+Host castor-pc
     Hostname 192.168.4.2
     User robot
 
